@@ -1,0 +1,4 @@
+git clone https://github.com/hadley/ggplot2-book.git
+cd ggplot2-book
+make clean
+make
